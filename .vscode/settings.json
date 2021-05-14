@@ -1,0 +1,6 @@
+{
+  "go.toolsEnvVars": {
+    "GOROOT": "/Users/yursol/Library/Caches/tinygo/goroot-go1.16.3-48927ae88913189d57a229b50bc45e9b85bb5fc415cffdc8a0af9675ca358e13-syscall",
+    "GOFLAGS": "-tags=xiao,atsamd21g18a,atsamd21g18,atsamd21,sam,cortexm,baremetal,linux,arm,tinygo,gc.conservative,scheduler.tasks"
+  }
+}
